@@ -1,5 +1,5 @@
 
-## <p align="left">d32k18 Github</p>
+## <p align="center">d32k18 Github</p>
 
 </br>
 
@@ -15,12 +15,12 @@
 </div>
 </br>
 
-<div align="center">
+<div align="left">
 
 
 </br>
 
-<h2 align="center">Technology Stack</h2>
+<h2 align="left">Technology Stack</h2>
 <hr>
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -35,7 +35,7 @@
 </br>
 
 
-<h2 align="center">👩‍💻What I Use</h2>
+<h2 align="left">👩‍💻What I Use</h2>
 <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&amp;logo=codepen&amp;logoColor=black" alt="CodePen">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
@@ -43,13 +43,3 @@
 <img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social" alt="Apple"></p>
 
 </br>
-
-
-<p align="center">
-
-![](./github-metrics.svg)
-</p>
-
-</br>
-
-
