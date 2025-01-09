@@ -3,7 +3,7 @@
 
 </br>
 
-<h2 align="left">📉Top Languages </h2>
+<h2 align="left">Top Languages </h2>
 <div align = "left">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d32k18&show_icons=true&theme=dark)
@@ -34,7 +34,7 @@
 </br>
 
 
-<h2 align="left">👩‍💻What I Use</h2>
+<h2 align="left">What I Use</h2>
 <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&amp;logo=codepen&amp;logoColor=black" alt="CodePen">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
