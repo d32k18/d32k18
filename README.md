@@ -39,6 +39,7 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python">
+<img src="https://img.shields.io/badge/PHP-777BB4style=for-the-badge&amp;logo=php&logoColor=white alt="PHP">
 <img src="https://shields.io/badge/MacOS--9cf?style=for-the-badge&amp;logo=Apple" alt="Apple"></p>
 
 </br>
