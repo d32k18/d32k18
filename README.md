@@ -1,13 +1,10 @@
-</br>
-</br>
 
-## <p align="center">d32k18 Github</p>
+## <p align="left">d32k18 Github</p>
 
 </br>
-</br>
 
-<h2 align="center">📉Top Languages </h2>
-<div align = "center">
+<h2 align="left">📉Top Languages </h2>
+<div align = "left">
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d32k18&show_icons=true&theme=dark)
 
@@ -21,7 +18,6 @@
 <div align="center">
 
 
-</br>
 </br>
 
 <h2 align="center">Technology Stack</h2>
@@ -37,7 +33,7 @@
 <hr>
 
 </br>
-</br>
+
 
 <h2 align="center">👩‍💻What I Use</h2>
 <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&amp;logo=codepen&amp;logoColor=black" alt="CodePen">
@@ -47,7 +43,7 @@
 <img src="https://shields.io/badge/MacOS--9cf?logo=Apple&style=social" alt="Apple"></p>
 
 </br>
-</br>
+
 
 <p align="center">
 
@@ -55,5 +51,5 @@
 </p>
 
 </br>
-</br>
+
 
